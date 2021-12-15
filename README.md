@@ -4,7 +4,7 @@ Swagger UI makes the interface even cooler!!
 
 # How to run this project
 1)Download Visual Studio.<br>
-2)Run the project <br>
+2)Clone the repository and run the project <br>
 3)To test the end point try to run the following endpoints:
 
  •	https://localhost:{port}/api/movies<br>
