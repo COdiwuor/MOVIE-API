@@ -9,5 +9,7 @@ Swagger UI makes the interface even cooler!!
 
  •	https://localhost:{port}/api/movies<br>
  •	https://localhost:{port}/api/movies/{id}<br>
- 4) Try sending requests using postman  (GET, POST, PUT, DELETE).
+ 4) Try sending requests using postman  (GET, POST, PUT, DELETE).<br>
+ 
+ REFERENCE: https://medium.com/net-core/how-to-build-a-restful-api-with-asp-net-core-fb7dd8d3e5e3
 
